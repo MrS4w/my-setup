@@ -2,6 +2,7 @@
 - Prettier
 - Dracula
 - Material Icons
+- Sass
 
 ## Fonte
 - Fira Code
