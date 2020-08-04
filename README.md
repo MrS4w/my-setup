@@ -6,3 +6,6 @@
 
 ## Fonte
 - Fira Code
+
+## Softwares
+- Git
