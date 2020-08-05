@@ -1,0 +1,13 @@
+{
+  "editor.fontFamily": "Fira Code Retina",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.renderLineHighlight": "gutter",
+  "editor.formatOnSave": true,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2
+}
