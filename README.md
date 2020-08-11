@@ -4,7 +4,7 @@
 - Material Icons
 - Sass
 
-## Fonte
+## Font
 - Fira Code
 
 ## Softwares
