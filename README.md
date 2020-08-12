@@ -1,35 +1,40 @@
 ## Text editor
 - <img src="https://code.visualstudio.com/assets/favicon.ico" height="30px" width="30px">
 
-  - [Visual Studio Code]()
+  - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Extensions
 - <img src="https://avatars2.githubusercontent.com/u/25822731?s=400&v=4" height="30px" width="30px">
 
-  - [Prettier]()
+  - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   
 - <img src="https://eg2.gallerycdn.vsassets.io/extensions/eg2/tslint/1.0.44/1562333373210/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
-  - [TS Lint]()
+  - [TS Lint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
 - <img src="https://draculatheme.com/static/icons/pack-1/045-dracula.svg" height="30px" width="30px">
 
-  - [Dracula]()
+  - [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
 - <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/logo.png" height="30px" width="30px">
 
-  - [Material Icon Theme]()
+  - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-- <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" height="30px" width="30px">
+- <img src="https://syler.gallerycdn.vsassets.io/extensions/syler/sass-indented/1.8.9/1595239491493/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
-  - [Sass]()
+  - [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 
 ## Font
-- [Fira Code]()
+- [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## Softwares
-- [Git]()
-- [Postman]()
+- <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
+
+  - [Git](https://git-scm.com/)
+
+- <img src="https://cdn.auth0.com/blog/build-a-secure-express-api-using-postman-and-auth0/postman-logo.png" height="30px" width="30px">
+
+  - [Postman](https://www.postman.com/)
 
 ## Settings
 **:gear: [settings.json](settings.json)**
