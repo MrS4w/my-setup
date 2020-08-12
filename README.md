@@ -19,6 +19,10 @@
 - <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/logo.png" height="30px" width="30px">
 
   - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+  
+- <img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/10.2.2/1591818157905/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
+
+  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 - <img src="https://syler.gallerycdn.vsassets.io/extensions/syler/sass-indented/1.8.9/1595239491493/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
