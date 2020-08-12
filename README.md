@@ -3,7 +3,7 @@
 
   - [Visual Studio Code]()
 
-## Extensions:
+## Extensions
 - <img src="https://avatars2.githubusercontent.com/u/25822731?s=400&v=4" height="30px" width="30px">
 
   - [Prettier]()
@@ -30,3 +30,6 @@
 ## Softwares
 - [Git]()
 - [Postman]()
+
+## Settings
+**:gear: [settings.json](settings.json)**
