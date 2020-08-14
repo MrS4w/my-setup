@@ -28,6 +28,10 @@
 
   - [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 
+- <img src="https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.178/1594244219955/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
+
+  - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
 ## Font
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
