@@ -10,7 +10,7 @@
   
 - <img src="https://eg2.gallerycdn.vsassets.io/extensions/eg2/tslint/1.0.44/1562333373210/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
-  - [TS Lint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+  - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
 - <img src="https://draculatheme.com/static/icons/pack-1/045-dracula.svg" height="30px" width="30px">
 
