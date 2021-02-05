@@ -9,5 +9,11 @@
   "workbench.startupEditor": "newUntitledFile",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.singleQuote": true,
-  "prettier.tabWidth": 2
+  "prettier.tabWidth": 2,
+   "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
 }
