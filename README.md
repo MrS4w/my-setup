@@ -36,6 +36,11 @@
 
   - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
+
+- <img src="https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/bracket-pair-colorizer/1.0.61/1542132753296/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
+
+  - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
 ## Font
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
