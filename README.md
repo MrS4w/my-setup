@@ -41,6 +41,10 @@
 
   - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
+- <img src="https://ambar.gallerycdn.vsassets.io/extensions/ambar/bundle-size/1.3.1/1636371827236/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
+
+  - [Bundle Size](https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size)
+
 ## Font
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
