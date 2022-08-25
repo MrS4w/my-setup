@@ -12,7 +12,7 @@
 
   - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 
-- <img src="https://draculatheme.com/static/icons/pack-1/045-dracula.svg" height="30px" width="30px">
+- <img src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.24.2/1647816441582/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
   - [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
