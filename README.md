@@ -26,22 +26,10 @@
 
 - <img src="https://syler.gallerycdn.vsassets.io/extensions/syler/sass-indented/1.8.9/1595239491493/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
-  - [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
-
-- <img src="https://steoates.gallerycdn.vsassets.io/extensions/steoates/autoimport/1.5.4/1618500754212/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
-
-  - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-
-- <img src="https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.178/1594244219955/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
-
   - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 
 - <img src="https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/bracket-pair-colorizer/1.0.61/1542132753296/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
-
-  - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-
-- <img src="https://ambar.gallerycdn.vsassets.io/extensions/ambar/bundle-size/1.3.1/1636371827236/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
   - [Bundle Size](https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size)
 
